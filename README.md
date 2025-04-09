@@ -27,7 +27,7 @@ To run the MERN Stack Job Portal locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mern-job-portal.git
+   git clone https://github.com/Kimmy-hub/jobPortal.git
 
 2. Navigate to the project directory:
 
@@ -59,5 +59,5 @@ To run the MERN Stack Job Portal locally, follow these steps:
 
 
 
-Have questions or suggestions? Feel free to contact us at [ant880423@gmail.com]
+Have questions or suggestions? Feel free to contact me at [ant880423@gmail.com]
 ```
